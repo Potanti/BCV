@@ -1,0 +1,14 @@
+{
+  "appId": "com.tasabcv.app",
+  "appName": "Tasa BCV",
+  "webDir": "www",
+  "backgroundColor": "#0f172a",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

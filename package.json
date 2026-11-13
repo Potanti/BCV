@@ -1,0 +1,11 @@
+{
+  "name": "tasa-bcv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tasa oficial BCV (USD y EUR) con conversor",
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0"
+  }
+}
