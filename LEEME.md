@@ -1,4 +1,4 @@
-# Tasa BCV: proyecto para generar el APK
+# PotaDollar: proyecto para generar el APK
 
 ## Opción A: compilar en la nube con GitHub (gratis, sin instalar nada)
 1. Crea una cuenta en github.com y un repositorio nuevo (privado o público).

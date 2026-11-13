@@ -1,6 +1,6 @@
 {
-  "name": "Tasa BCV Venezuela",
-  "short_name": "Tasa BCV",
+  "name": "PotaDollar",
+  "short_name": "PotaDollar",
   "description": "Dólar y euro oficiales del BCV con conversor",
   "lang": "es-VE",
   "start_url": "./index.html",
